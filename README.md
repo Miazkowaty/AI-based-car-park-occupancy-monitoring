@@ -1,2 +1,2 @@
-# AI-based-car-park-occupancy-monitoring
+# AI based car park occupancy monitoring
  
